@@ -12,7 +12,7 @@
 
 <br/>
 
-🌱 Currently learning **Agentic AI**
+⭐️Currently learning **Agentic AI**
 
 <br/>
 
@@ -30,12 +30,12 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-- 👨‍💻 Full Stack Developer focused on **React, Node, TypeScript**
-- 🧠 Interested in **AI systems, Agentic workflows & product thinking**
-- ⚡ Strong belief in **clean code, UX, and scalability**
-- 🎯 Goal: Become a **senior-level engineer before placements**
+- Full Stack Developer focused on **React, Node, TypeScript**
+- Interested in **AI systems, Agentic workflows & product thinking**
+- Strong belief in **clean code, UX, and scalability**
+- Goal: Become a **senior-level engineer before placements**
 
 ---
 
