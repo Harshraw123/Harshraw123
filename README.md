@@ -85,9 +85,7 @@
 
 ## 🔥 Contribution Streak
 <div style="display: flex; justify-content: center;">
-  <p class="streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraw123" alt="harshraw123" />
-  </p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshraw123&" alt="harshraw123" /></p>
 </div>
 
 
