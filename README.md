@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Harsh Rawat
 
-### Full Stack Developer • UI Craftsman • AI Enthusiast
+### Full Stack Developer • Scalable Systems • AI Enthusiast
 
 <p align="center">
   I love building <b>scalable web apps</b>, crafting <b>clean & modern UIs</b>,  
