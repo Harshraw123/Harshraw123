@@ -1,141 +1,157 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ✦  HARSHRAW123 · GITHUB PROFILE README  ✦
+     Palette: Midnight Indigo → Electric Cyan → Soft Violet
+     Accent : #7C3AED  |  #22D3EE  |  #F472B6
+     Base   : #0D1117 (bg)  |  #E6EDF3 (text)  |  #8B949E (muted)
+════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ─────────────  HERO BANNER  ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:27272A,100:EAB308&height=200&section=header&text=Harsh%20Rawat&fontSize=48&fontColor=EAB308&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Scalable%20Systems%20•%20AI%20Enthusiast&descAlignY=58&descSize=18&descColor=9CA3AF&animation=fadeIn"/>
+<a href="https://github.com/Harshraw123">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:22D3EE&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Harshraw&fontSize=52&fontColor=E6EDF3&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Systems%20%C2%B7%20Agentic%20Workflows&descSize=16&descAlignY=60&animation=fadeIn" width="100%" />
+</a>
+
+<a href="mailto:harshrawat.tech@gmail.com">
+  <img src="https://img.shields.io/badge/-harshrawat.tech@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Harshraw123">
+  <img src="https://img.shields.io/badge/-Harshraw123-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/harshraw123">
+  <img src="https://img.shields.io/badge/-LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/Harshraw123">
+  <img src="https://img.shields.io/badge/-Twitter-F472B6?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+%F0%9F%9A%80;Crafting+clean+%26+modern+UIs+%E2%9C%A8;Turning+AI+ideas+into+real+products+%F0%9F%A4%96;Currently+diving+into+Agentic+AI+%F0%9F%A7%A0"/>
-
-<br/><br/>
-
-<a href="https://harsh-rawat.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit-EAB308?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=EAB308"/>
-</a>
-<a href="mailto:hr715301@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-22C55E?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=22C55E"/>
-</a>
-<a href="https://www.linkedin.com/in/harsh-rawat-ai" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-9CA3AF?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=9CA3AF"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=harshraw123&label=Profile%20Views&color=EAB308&style=flat-square"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+intelligent+agentic+systems.;Crafting+clean%2C+scalable+products.;Turning+ideas+into+shipped+experiences." alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## `01` About Me
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/●-000000?style=flat-square&color=EAB308" height="4" width="60"/>
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=EAB308&center=true&vCenter=true&width=500&lines=%3C+Tools+%26+Technologies+%2F%3E;Languages+%C2%B7+Frameworks+%C2%B7+Databases" />
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="600px">
+<!-- ─────────────  01 · ABOUT ME  ───────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=7C3AED&width=380&lines=%6001%60+About+Me" alt="01 About Me" />
 
 <table>
-<tr><td>🧭 <b>Role</b></td><td>Full Stack Developer</td></tr>
-<tr><td>⚙️ <b>Stack</b></td><td><code>React</code> · <code>Node.js</code> · <code>TypeScript</code></td></tr>
-<tr><td>🎯 <b>Focus</b></td><td>AI Systems · Agentic Workflows · Product Thinking</td></tr>
-<tr><td>🧠 <b>Philosophy</b></td><td>Clean code · Thoughtful UX · Scalability by design</td></tr>
-<tr><td>🚀 <b>Goal</b></td><td>Senior-level engineering before placements</td></tr>
-<tr><td>📡 <b>Learning</b></td><td>Agentic AI</td></tr>
-<tr><td>🟢 <b>Status</b></td><td><img src="https://img.shields.io/badge/ACTIVE-Building%20%26%20Shipping%20Daily-22C55E?style=flat-square&labelColor=000000"/></td></tr>
+  <tr>
+    <td width="55%" valign="top">
+      <table>
+        <tr><td>🧭</td><td><b>Role</b></td><td>Full Stack Developer</td></tr>
+        <tr><td>⚙️</td><td><b>Stack</b></td><td>React · Node.js · TypeScript</td></tr>
+        <tr><td>🎯</td><td><b>Focus</b></td><td>AI Systems · Agentic Workflows · Product Thinking</td></tr>
+        <tr><td>🧠</td><td><b>Philosophy</b></td><td>Clean code · Thoughtful UX · Scalability by design</td></tr>
+        <tr><td>🚀</td><td><b>Goal</b></td><td>Senior-level engineering before placements</td></tr>
+        <tr><td>📡</td><td><b>Learning</b></td><td>Agentic AI</td></tr>
+        <tr><td>🟢</td><td><b>Status</b></td><td>Open to collaboration</td></tr>
+      </table>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=Harshraw123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E6EDF3&ring_color=F472B6" width="100%" />
+    </td>
+  </tr>
 </table>
 
-</td>
-</tr>
+<br/>
+
+<!-- ─────────────  02 · TECH STACK  ───────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=7C3AED&width=380&lines=%6002%60+Tech+Stack" alt="02 Tech Stack" />
+
+<div align="center">
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-F472B6?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI / Agentic**  
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vercel AI](https://img.shields.io/badge/Vercel_AI-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ─────────────  03 · GITHUB ANALYTICS  ───────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=7C3AED&width=460&lines=%6003%60+GitHub+Analytics" alt="03 GitHub Analytics" />
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshraw123&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E6EDF3&langs_count=8" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Harshraw123&hide_border=true&background=0D1117&stroke=7C3AED&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshraw123&bg_color=0D1117&color=22D3EE&line=7C3AED&point=F472B6&area=true&area_color=7C3AED&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshraw123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────  04 · HIGHLIGHTS  ───────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=7C3AED&width=360&lines=%6004%60+Highlights" alt="04 Highlights" />
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 Agentic AI Playground</h3>
+      <p><sub>Multi-agent orchestration lab exploring planning, tool use, and long-horizon reasoning.</sub></p>
+      <p><code>Next.js</code> <code>LangChain</code> <code>OpenAI</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Full Stack Starter</h3>
+      <p><sub>Opinionated production-ready template with auth, payments, and typed end-to-end APIs.</sub></p>
+      <p><code>React</code> <code>Node</code> <code>Postgres</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 UI Systems</h3>
+      <p><sub>Component libraries built around motion, accessibility, and thoughtful defaults.</sub></p>
+      <p><code>TypeScript</code> <code>Tailwind</code> <code>Framer</code></p>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## `02` Tech Stack
+<!-- ─────────────  05 · CONNECT  ───────────── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=99999&color=7C3AED&width=320&lines=%6005%60+Connect" alt="05 Connect" />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=9CA3AF"/>
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=9CA3AF"/>
-<br/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=22C55E"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=EAB308"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=9CA3AF"/>
-
-</div>
-
-<br/>
-
-## `03` GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshraw123&show_icons=true&hide_border=true&bg_color=000000&title_color=EAB308&icon_color=22C55E&text_color=9CA3AF&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshraw123&layout=compact&hide_border=true&bg_color=000000&title_color=EAB308&text_color=9CA3AF&border_radius=10" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=harshraw123&hide_border=true&background=000000&ring=22C55E&fire=EAB308&currStreakLabel=EAB308&sideNums=9CA3AF&currStreakNum=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&stroke=27272A&border_radius=10"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshraw123&bg_color=000000&color=EAB308&line=22C55E&point=9CA3AF&area=true&area_color=27272A&hide_border=true&border_radius=10" width="90%"/>
-
-</div>
-
-<br/>
-
-## `04` Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Topcoder-Competitive%20Programmer-EAB308?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/GitHub-Active%20Contributor-22C55E?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-9CA3AF?style=for-the-badge&labelColor=000000"/>
-
-</div>
-
-<br/>
-
-## `05` Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/harsh-rawat-950b712a9" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.topcoder.com/members/110094" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="38"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<i>"Code is not just about logic — it's about clarity, empathy, and impact."</i>
+<a href="mailto:harshrawat.tech@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Harshraw123"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/harshraw123"><img src="https://img.shields.io/badge/LinkedIn-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/Harshraw123"><img src="https://img.shields.io/badge/Twitter-F472B6?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAB308,50:27272A,100:000000&height=120&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=Harshraw123&label=Profile%20views&color=7C3AED&style=for-the-badge" />
+
+<br/><br/>
+
+> _"Code is not just about logic — it's about clarity, empathy, and impact."_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
