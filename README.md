@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=22C55E&center=true&vCenter=true&width=400&lines=~%2Fharsh-rawat+%24+whoami+--verbose" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=22C55E&center=true&vCenter=true&width=400&lines=~%2F\My Skills" />
 </div>
 
 <br/>
