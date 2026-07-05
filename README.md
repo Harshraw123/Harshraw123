@@ -83,14 +83,7 @@
 
 ---
 
-## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraw123&" alt="harshraw123" />
-</p>
-
-
----
 
 <div align="center">
 
