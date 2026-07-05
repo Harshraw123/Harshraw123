@@ -102,10 +102,14 @@
 
 <br/>
 
-## `04` Trophy Case
+## `04` Highlights
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshraw123&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"/>
+
+<img src="https://img.shields.io/badge/Topcoder-Competitive%20Programmer-EAB308?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GitHub-Active%20Contributor-22C55E?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Focus-Agentic%20AI-9CA3AF?style=for-the-badge&labelColor=000000"/>
+
 </div>
 
 <br/>
