@@ -34,24 +34,24 @@
 
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=1000&color=22C55E&center=true&vCenter=true&width=400&lines=~%2Fharsh-rawat+%24+whoami+--verbose" />
+</div>
+
+<br/>
+
 <table align="center">
 <tr>
 <td width="600px">
 
-```ansi
-[32m┌──────────────────────────────────────────────────┐[0m
-[32m│[0m  [33m~/harsh-rawat[0m [90m$[0m whoami --verbose                [32m│[0m
-[32m└──────────────────────────────────────────────────┘[0m
-```
-
 <table>
-<tr><td><b>🧭 Role</b></td><td>Full Stack Developer</td></tr>
-<tr><td><b>⚙️ Stack</b></td><td><code>React</code> · <code>Node.js</code> · <code>TypeScript</code></td></tr>
-<tr><td><b>🎯 Focus</b></td><td>AI Systems · Agentic Workflows · Product Thinking</td></tr>
-<tr><td><b>🧠 Philosophy</b></td><td>Clean code · Thoughtful UX · Scalability by design</td></tr>
-<tr><td><b>🚀 Goal</b></td><td>Senior-level engineering before placements</td></tr>
-<tr><td><b>📡 Learning</b></td><td>Agentic AI</td></tr>
-<tr><td><b>🟢 Status</b></td><td><img src="https://img.shields.io/badge/ACTIVE-Building%20%26%20Shipping%20Daily-22C55E?style=flat-square&labelColor=000000"/></td></tr>
+<tr><td>🧭 <b>Role</b></td><td>Full Stack Developer</td></tr>
+<tr><td>⚙️ <b>Stack</b></td><td><code>React</code> · <code>Node.js</code> · <code>TypeScript</code></td></tr>
+<tr><td>🎯 <b>Focus</b></td><td>AI Systems · Agentic Workflows · Product Thinking</td></tr>
+<tr><td>🧠 <b>Philosophy</b></td><td>Clean code · Thoughtful UX · Scalability by design</td></tr>
+<tr><td>🚀 <b>Goal</b></td><td>Senior-level engineering before placements</td></tr>
+<tr><td>📡 <b>Learning</b></td><td>Agentic AI</td></tr>
+<tr><td>🟢 <b>Status</b></td><td><img src="https://img.shields.io/badge/ACTIVE-Building%20%26%20Shipping%20Daily-22C55E?style=flat-square&labelColor=000000"/></td></tr>
 </table>
 
 </td>
